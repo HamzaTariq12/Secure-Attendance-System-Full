@@ -1,0 +1,5 @@
+### Virtual Environment ###
+venv/
+
+### Django ###
+__pycache__/
